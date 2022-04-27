@@ -1,0 +1,6 @@
+GIT is Version control system software that helps software developers to work together and maintain complete history of work.
+
+Benefits:
+	Fully distributed
+	Branching and Merging
+	Maintain history of every version
