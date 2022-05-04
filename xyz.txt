@@ -1,0 +1,3 @@
+Types of VCS:
+  1) Centralized Version control system
+  2) Distrubuted Version control system
