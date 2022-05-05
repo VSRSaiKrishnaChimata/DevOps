@@ -1,0 +1,13 @@
+git branch "BRANCH_NAME"
+git checkout "BRANCH_NAME"
+git branch --> we can verify in which branch we are in..
+Just create one file
+git add --all --> File will be there in STAGE AREA
+git commit  -m "Comment"  --> Our will be there in LOCAL Repo
+ git push --up-stream origin "BRANCH_NAME"
+
+Merging:
+To Merge any Branch, we have to be there in Master Branch
+
+git merge "BRNACH_NAME"
+git push
