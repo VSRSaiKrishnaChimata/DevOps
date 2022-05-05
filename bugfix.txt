@@ -1,0 +1,4 @@
+This branch is created to fix an issue in Application.
+git branch FIRST_BRANCH  --> This command will create new branch with name FRIST_BRANCH
+git checkout FIRST_BRANCH  --> we have requested git to change our branch to FIRST_BRANCH.
+git branch -a  --> we can use "git branch -a will be used to check which branch we are in "
