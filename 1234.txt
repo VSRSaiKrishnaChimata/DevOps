@@ -1,6 +1,0 @@
-Developer1 Changes with some code fix
-Developer1 Comment
-Developer1 Tested one feature
-Developer2
-Developer1
-Developer1 1234
